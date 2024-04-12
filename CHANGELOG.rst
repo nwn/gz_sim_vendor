@@ -2,8 +2,8 @@
 Changelog for package gz_sim_vendor
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-Forthcoming
------------
+0.0.2 (2024-04-12)
+------------------
 * Remove python3-distutils dependency
   This dependency is only needed in the vendored package for CMake
   versions less than 3.12. It is also failing to install on Noble
