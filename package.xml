@@ -32,7 +32,6 @@
   <build_depend>libxmu-dev</build_depend>
   <build_depend>protobuf-dev</build_depend>
   <build_depend>pybind11-dev</build_depend>
-  <build_depend>python3-distutils</build_depend>
   <build_depend>qml-module-qt-labs-folderlistmodel</build_depend>
   <build_depend>qml-module-qt-labs-settings</build_depend>
   <build_depend>qml-module-qtgraphicaleffects</build_depend>
@@ -53,7 +52,6 @@
   <exec_depend>libxmu-dev</exec_depend>
   <exec_depend>protobuf-dev</exec_depend>
   <exec_depend>pybind11-dev</exec_depend>
-  <exec_depend>python3-distutils</exec_depend>
   <exec_depend>qml-module-qt-labs-folderlistmodel</exec_depend>
   <exec_depend>qml-module-qt-labs-settings</exec_depend>
   <exec_depend>qml-module-qtgraphicaleffects</exec_depend>
