@@ -2,6 +2,11 @@
 Changelog for package gz_sim_vendor
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
+Forthcoming
+-----------
+* Use an alias target for root library
+* Contributors: Addisu Z. Taddese
+
 0.0.2 (2024-04-12)
 ------------------
 * Remove python3-distutils dependency
