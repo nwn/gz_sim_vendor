@@ -2,8 +2,8 @@
 Changelog for package gz_sim_vendor
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-Forthcoming
------------
+0.0.3 (2024-04-25)
+------------------
 * Use an alias target for root library
 * Contributors: Addisu Z. Taddese
 
